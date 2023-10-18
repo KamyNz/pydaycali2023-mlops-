@@ -1,0 +1,17 @@
+{
+    "Modelo_KMeans": {
+        "params": {},
+        "tags": {
+            "client_name": "Superintendencia de Transporte",
+            "commercial_sector": "Transporte",
+            "model_programming_language": "Python",
+            "planguage_version":"python3.10",
+            "type_of_model": "Modelo de Clusterización",
+            "compute": "local",
+            "model_name": "kmeans",
+            "repo_url_origin": "https://gitlab.com/CAOBA-Central/consultorias/pruebas-concepto-sde/pocc-02-sde-transporte.git",
+            "dataset_url_raw_p1": "https://gitlab.com/CAOBA-Central/productos-caoba/datalab/analitica-como-servicio/miscellaneous/mlflow/mlflow-pocc-sde/mlflow-pocc-02-transporte/-/tree/develop/demo2/data/raw?ref_type=heads",
+            "dataset_url_analytics_p1": "https://gitlab.com/CAOBA-Central/productos-caoba/datalab/analitica-como-servicio/miscellaneous/mlflow/mlflow-pocc-sde/mlflow-pocc-02-transporte/-/tree/develop/demo2/data/analytics?ref_type=heads"
+        }
+    }
+}
