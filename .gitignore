@@ -1,9 +1,12 @@
 # Own .gitignore
-src/mlruns/*
+use_case/mlruns/*
+use_case/mlartifacts/*
+mlruns/*
+mlartifacts/*
 other/*
-data/raw/*
-data/analytics/*
-
+use_case/data/raw/*
+use_case/data/analytics/*
+use_case/venv
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos
