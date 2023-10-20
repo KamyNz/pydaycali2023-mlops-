@@ -1,3 +1,5 @@
+#mlflow_utils.py
+
 import json
 import mlflow
 from mlflow.models.signature import infer_signature
@@ -7,7 +9,7 @@ from pathlib import Path
 class MLFlowUtils:
 
     def __init__(self, config_name = None):
-        config_path = Path("./demo2/config/experiment_config.json")
+        config_path = Path("../config/experiment_config.json")
         with open(config_path, 'r', encoding='utf-8') as file:
             self.config = json.load(file)[config_name]
 
@@ -61,4 +63,3 @@ class MLFlowUtils:
     def set_model_stage(self, model_name, version, stage):
         client = MlflowClient()
         client.transition_model_version_stage(name=model_name, version=version, stage=stage)
-
