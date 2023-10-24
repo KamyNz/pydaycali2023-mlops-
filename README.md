@@ -8,11 +8,9 @@
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
-
-The repository is structured into various sections for the installation and configuration of MLflow:
 - [PowerPoint-Presentation-in-Spanish](https://docs.google.com/presentation/d/1B4s1wYS_IuFgmeCPmgrnu1IGfCIbPvm7DJwaLaY-S_k/edit?usp=sharing)
 
-> **Note: Read the following before you begin!**
+> **Note: The repository is structured into various sections for the installation and configuration of MLflow. You should read other relevant prerequisites before you begin!**
 
 ## Relevant Prerequisites
 - [Follow these instructions to generate environment](https://docs.google.com/document/d/1cKt_1HJ4R_A4a8m9L3SW7RYCPYqYkyrUGv_dk4XTB8c/edit?usp=sharing)
@@ -21,9 +19,9 @@ The repository is structured into various sections for the installation and conf
 
 ## Key Audience
 - Data science teams looking to take their first steps in enhancing ML processes
-- Individuals with a Data Scientist role
-- Individuals with a Data Engineer role
-- Individuals with an ML Engineer role
+- Individuals with a Data Scientist role that are interested in MLOPs
+- Individuals with a Data Engineer role that are interested in MLOPs
+- Individuals with an ML Engineer role that are interested in MLOPs
 - Any other role seeking practical experience for tracking parameters and artifacts related to managing machine learning models.
 
 ## Goals
