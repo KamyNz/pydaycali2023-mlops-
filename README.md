@@ -2,14 +2,15 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
-  
-- ▶️[Presentation-in-Spanish-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
+
 ![PyDayCali-Card](./docs/readme/PyDayCali-CM.png){width=300px height=200px}
-  
+
 
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
+
+- ▶️[Presentation-in-Spanish-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
 
 - [PowerPoint-Presentation-in-Spanish](https://docs.google.com/presentation/d/1B4s1wYS_IuFgmeCPmgrnu1IGfCIbPvm7DJwaLaY-S_k/edit?usp=sharing)
 
