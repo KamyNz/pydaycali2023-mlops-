@@ -3,7 +3,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
->Note: If you are interested in deploying MLflow in AWS, you can check [this other repository](https://github.com/KamyNz/awscomunityday2023/tree/main)
+>Note: If you are interested in deploying MLflow in AWS, you can check [Implementing MLflow in your ML experiments at low cost from EC2)](https://github.com/KamyNz/awscomunityday2023/tree/main)
 
 ## Introduction
 
