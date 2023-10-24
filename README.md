@@ -3,11 +3,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
-<div style="text-align: center;">
-    <img src="./docs/readme/PyDayCali-CM.png" alt="PyDayCali-Card" width="300" height="400">
-</div>
-
-
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
