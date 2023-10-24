@@ -3,7 +3,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
->Note: If you are interest on deploying MLflow in AWS, you can check [this other repository](https://github.com/KamyNz/awscomunityday2023/tree/main)
+>Note: If you are interested in deploying MLflow in AWS, you can check [this other repository](https://github.com/KamyNz/awscomunityday2023/tree/main)
 
 ## Introduction
 
@@ -54,13 +54,30 @@ Similarly, the technical leader of the analytics team aims to streamline the com
 
 - [Introduction to Git](https://www.youtube.com/watch?v=uR6G2v_WsRA&ab_channel=DavidMahler)
 
-
 ## Tips
 - [Tips](https://docs.google.com/document/d/1cKt_1HJ4R_A4a8m9L3SW7RYCPYqYkyrUGv_dk4XTB8c/edit?usp=sharing)
 
 ## Learnings and Next Steps
 
 - To fill later ;)
+
+## Contributing
+
+Contributions to this repository are welcome! If you'd like to contribute, please follow these guidelines:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right corner of this repository to create your copy.
+
+2. **Make Changes**: Create a new branch on your fork, make changes or additions to the materials, and commit your changes.
+
+3. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request. Be sure to provide a clear and concise description of your changes.
+
+4. **Review and Collaborate**: Collaborators will review your pull request, provide feedback, and merge it into the main repository if everything looks good.
+
+Please follow good coding practices and ensure that your contributions align with the purpose of this repository.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Please review the license before using or contributing to this repository.
 
 ## Acknowledgments
 
