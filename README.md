@@ -3,11 +3,13 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
+>Note: If you are interest on deploying MLflow in AWS, you can check [this other repository](https://github.com/KamyNz/awscomunityday2023/tree/main)
+
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
 
-- ▶️[Presentation-in-Spanish-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
+- ▶️[YoutubeVideo-Presentation-in-Spanish](https://youtu.be/cEpjQGdwMJQ?t=1955)
 
 ![MLOPs_socre](./docs/readme/MLOps_score.png)
 
