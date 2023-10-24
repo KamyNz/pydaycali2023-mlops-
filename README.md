@@ -4,7 +4,7 @@
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
   
 - ▶️[Presentation-in-Spanish-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
-![PyDayCali-Card](./docs/readme/PyDayCali-CM.png)
+![PyDayCali-Card](./docs/readme/PyDayCali-CM.png){width=300px height=200px}
   
 
 ## Introduction
