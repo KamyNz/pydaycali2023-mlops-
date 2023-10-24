@@ -3,16 +3,13 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
-![PyDayCali-Card](./docs/readme/PyDayCali-CM.png){width=300px height=200px}
-
+<img src="./docs/readme/PyDayCali-CM.png" alt="PyDayCali-Card" width="300" height="200">
 
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
 
 - ▶️[Presentation-in-Spanish-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
-
-- [PowerPoint-Presentation-in-Spanish](https://docs.google.com/presentation/d/1B4s1wYS_IuFgmeCPmgrnu1IGfCIbPvm7DJwaLaY-S_k/edit?usp=sharing)
 
 ![MLOPs_socre](./docs/readme/MLOps_score.png)
 
@@ -22,6 +19,7 @@ This repository contains the necessary information to follow the demo from the p
 - [Follow these instructions to generate environment](https://docs.google.com/document/d/1cKt_1HJ4R_A4a8m9L3SW7RYCPYqYkyrUGv_dk4XTB8c/edit?usp=sharing)
 - A python=3.10 environment
 - [Run cells of Jupyter Notebook in repo](./use_case/notebook/MLflow_Local.ipynb)
+- [PowerPoint-Presentation-in-Spanish](https://docs.google.com/presentation/d/1B4s1wYS_IuFgmeCPmgrnu1IGfCIbPvm7DJwaLaY-S_k/edit?usp=sharing)
 
 ## Key Audience
 - Data science teams looking to take their first steps in enhancing ML processes
