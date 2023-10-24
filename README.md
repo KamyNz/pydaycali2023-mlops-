@@ -1,13 +1,16 @@
-# PYDay Cali  Demo (Getting started with MLOps with MLflow on-premises)
+# PyDay Cali  Demo (Getting started with MLOps with MLflow on-premises)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
+
+- ▶️ YouTube[Presentation-in-Youtube](https://youtu.be/cEpjQGdwMJQ?t=1955)
 
 ## Introduction
 
 This repository contains the necessary information to follow the demo from the presentation **Getting started with MLOps with MLflow on-premises** in the context of the [PyDay Cali](https://calidev.co/eventos/pyday/cali-2023/) event.
 
 The repository is structured into various sections for the installation and configuration of MLflow:
+- [PowerPointPresentation](https://docs.google.com/presentation/d/1B4s1wYS_IuFgmeCPmgrnu1IGfCIbPvm7DJwaLaY-S_k/edit?usp=sharing)
 
 > **Note: Read the following before you begin!**
 
