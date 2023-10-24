@@ -3,7 +3,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamymartinez/)
 - 🐦 [Twitter](https://twitter.com/KamyBytes)
 
-<img src="./docs/readme/PyDayCali-CM.png" alt="PyDayCali-Card" width="300" height="200">
+<img src="./docs/readme/PyDayCali-CM.png" alt="PyDayCali-Card" width="200" height="300">
 
 ## Introduction
 
