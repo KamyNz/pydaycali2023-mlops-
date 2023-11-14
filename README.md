@@ -36,7 +36,7 @@ This repository contains the necessary information to follow the demo from the p
 ## Demo Scenario
 > **Note: Read the following before you begin!**
 
-An analytics team wants to start implementing an MLOps culture. Therefore, along with their technical leader, they are going to set up a tracking server using [MLflow](https://mlflow.org/docs/latest/what-is-mlflow.html) on localhost because they are checking out MLflow as their MLOPs tool.
+An analytics team wants to start implementing an MLOps culture. Therefore, along with their technical leader, they are going to set up a tracking server using [MLflow](https://mlflow.org/docs/latest/getting-started/index.html) on localhost because they are checking out MLflow as their MLOPs tool.
 
 Similarly, the technical leader of the analytics team aims to streamline the compilation of the library of experiments that team members have been generating in Python scripts or Jupyter notebooks on their personal computers.
 
